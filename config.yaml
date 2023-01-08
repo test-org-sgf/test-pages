@@ -1,4 +1,4 @@
-baseURL: 'https://test-org-sgf.github.io/test-org-sgf'
+baseURL: 'https://test-org-sgf.github.io/test-pages'
 languageCode: 'en-us'
 title: "再構築"
 theme: "minimal-bootstrap-hugo-theme"
